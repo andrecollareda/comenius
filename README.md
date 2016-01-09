@@ -33,3 +33,5 @@ Follow the steps below:
 
 6- Push your alterations to your forked repo
 * `git push origin master`
+
+All the PHP code is licensed by GPLv2
